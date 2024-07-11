@@ -1,0 +1,1 @@
+This is a public issue tracker for HTMX Pro plugin.
